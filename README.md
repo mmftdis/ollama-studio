@@ -2,7 +2,8 @@
 Ollama Studio - Research Tool
 
 <br>
-more info on OllamaStudio:
+Please use OllamaStudio repository:
 <br>
+https://github.com/mmftdis/OllamaStudio
 
 <br><br>
